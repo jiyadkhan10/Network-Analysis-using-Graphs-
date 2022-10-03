@@ -4,32 +4,32 @@ CS218	Data Structures <br />
  You are required to complete the tasks for any one of the datasets for understanding on how graphs help in investigating hidden patterns in the data
  
 # Tasks
-First Set of Tasks – Graph Stats
-1. Display the number of nodes 
-2. Display the number of edges 
-3. Display the number of source nodes 
-4. Display the number of sink nodes 
-5. Display the number of isolated nodes 
-6. Display the number of bridge edges 
-7. Display the number of articulation nodes 
-8. Display the shortest path length distribution 
-9. Display the diameter of the graph 
-Second Set of Tasks – Degree Distributions
-10. Display the in-degree distribution in the form of a table 
-11. Display the out-degree distribution in the form of a table 
-Third Set of Tasks – Connected Components
-For the original graph:
-12. Display the size of the largest strongly connected component (SCC) 
-13. Display the size distribution of all SCCs (
-Considering the graph as an undirected graph:
-14. Display the size of the largest weakly connected component (WCC) 
-15. Display the size distribution of all WCCs 
+First Set of Tasks – Graph Stats <br />
+1. Display the number of nodes <br />
+2. Display the number of edges <br />
+3. Display the number of source nodes <br /> 
+4. Display the number of sink nodes <br />
+5. Display the number of isolated nodes <br />
+6. Display the number of bridge edges <br />
+7. Display the number of articulation nodes <br />
+8. Display the shortest path length distribution <br />
+9. Display the diameter of the graph <br />
+Second Set of Tasks – Degree Distributions <br />
+10. Display the in-degree distribution in the form of a table <br /> 
+11. Display the out-degree distribution in the form of a table <br />
+Third Set of Tasks – Connected Components <br />
+For the original graph: <br />
+12. Display the size of the largest strongly connected component (SCC) <br /> 
+13. Display the size distribution of all SCCs <br />
+Considering the graph as an undirected graph: <br />
+14. Display the size of the largest weakly connected component (WCC) <br /> 
+15. Display the size distribution of all WCCs <br />
 
 # Algorithms
 
-1. Breadth-First Search (BFS) Algorithm
-2. Strongly Connected Components (SCC) Algorithm
-3. Weakly Connected Components (WCC) Algorithm
+1. Breadth-First Search (BFS) Algorithm <br />
+2. Strongly Connected Components (SCC) Algorithm <br />
+3. Weakly Connected Components (WCC) Algorithm <br />
  
 # Languages
 1. C++ Language <br />
